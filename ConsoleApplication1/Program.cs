@@ -19,6 +19,8 @@ namespace ConsoleApplication1
                     Console.WriteLine("Hello! No :" + i);
                 }
             }
+
+            TestClass.greet();
             
             Console.ReadLine();
         }
